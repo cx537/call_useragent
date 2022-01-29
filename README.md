@@ -17,6 +17,6 @@ headers = {'User-Agent': call_useragent.random()}
 
 补充：
 
-**head.py** 文件中的所有请求头来自于https://fake-useragent.herokuapp.com/browsers/0.1.11，感谢原作者的贡献。
+**head.py** 文件中的所有请求头来自于https://fake-useragent.herokuapp.com/browsers/0.1.11 ，感谢原作者的贡献。
 
 fake-useragent 仓库地址：https://github.com/hellysmile/fake-useragent
